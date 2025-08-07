@@ -29,8 +29,6 @@ In **VSCode terminal**, run:
 $env:OPENROUTER_API_KEY = "<your_openrouter_api_key>"
 ```
 
-> ⚠️ If this doesn't work, open **Command Prompt as Administrator** and try the same command there.
-
 ---
 
 ### 📦 Step 3: Install Dependencies
