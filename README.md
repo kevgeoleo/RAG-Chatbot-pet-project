@@ -16,8 +16,8 @@ This project demonstrates a simple Retrieval-Augmented Generation (RAG) chatbot 
 ### 🔑 Step 1: Get OpenRouter API Key
 
 1. Go to [https://openrouter.ai/settings/keys](https://openrouter.ai/settings/keys)
-2. If you dont have an account in Open router please create one first
-3. Click **Create Key**
+2. If you don't have an account in Open router please create one first
+3. Click **Create API Key**
 4. Copy and **save your key** securely — you can only view it once.
 
 ---
