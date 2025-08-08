@@ -67,7 +67,7 @@ while True:
 
     if response.status_code == 200:
         reply = response.json()["choices"][0]["message"]["content"]
-        print("Chimera:", reply)
+        print("Chatbot:", reply)
         payload["messages"].append({"role": "assistant", "content": reply})
     else:
         print("Error:", response.status_code)
