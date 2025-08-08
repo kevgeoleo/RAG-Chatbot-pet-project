@@ -27,7 +27,7 @@ This project demonstrates a simple Retrieval-Augmented Generation (RAG) chatbot 
 In **VSCode terminal**, run:
 
 ```powershell
-$env:OPENROUTER_API_KEY = "<your_openrouter_api_key>"
+$env:OPENROUTER_API_KEY = "insert_your_openrouter_api_key_here"
 ```
 
 ---
