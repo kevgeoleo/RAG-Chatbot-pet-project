@@ -16,8 +16,9 @@ This project demonstrates a simple Retrieval-Augmented Generation (RAG) chatbot 
 ### 🔑 Step 1: Get OpenRouter API Key
 
 1. Go to [https://openrouter.ai/settings/keys](https://openrouter.ai/settings/keys)
-2. Click **Create Key**
-3. Copy and **save your key** securely — you can only view it once.
+2. If you dont have an account in Open router please create one first
+3. Click **Create Key**
+4. Copy and **save your key** securely — you can only view it once.
 
 ---
 
@@ -47,6 +48,7 @@ The dataset is stored at: `data/dataset.txt`
 (Source: [reichenbch/RAG-examples](https://github.com/reichenbch/RAG-examples/blob/main/dataset.txt))
 
 Run the following script to process the data:
+Note: The preprocessed data is already available for the sample case. You need to run this only if you are working with a brand new dataset
 
 ```bash
 python preprocess_dataset.py
