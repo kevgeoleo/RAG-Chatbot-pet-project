@@ -48,7 +48,9 @@ The dataset is stored at: `data/dataset.txt`
 (Source: [reichenbch/RAG-examples](https://github.com/reichenbch/RAG-examples/blob/main/dataset.txt))
 
 Run the following script to process the data:
-Note: The preprocessed data is already available for the sample case. You need to run this only if you are working with a brand new dataset
+
+> ⚠️ **Note:** The preprocessed data is already available for the sample case.  
+> You need to run this **only** if you are working with a brand-new dataset.
 
 ```bash
 python preprocess_dataset.py
