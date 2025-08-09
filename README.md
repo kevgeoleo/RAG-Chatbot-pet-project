@@ -94,4 +94,4 @@ You can try questions like:
 
 - You can swap out the model by modifying the `model` field in `chatbot.py`
 - The output quality depends on the LLM used — you're currently using `DeepSeek V3 0324 (free)`
-- If you are currently using an account without topping up credits, you have a limit of 100 requests per day even if you are using a free model.
+- If you are currently using a free account without topping up credits, you have a limit of 100 requests per day even if you are using a free model.
