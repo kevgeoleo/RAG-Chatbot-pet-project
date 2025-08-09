@@ -1,6 +1,6 @@
 # 🧠 RAG-based Chatbot using OpenRouter and DeepSeek
 
-This project demonstrates a simple Retrieval-Augmented Generation (RAG) chatbot using the [DeepSeek V3 0324 (free)](https://openrouter.ai/tngtech/deepseek-r1t2-chimera:free) LLM model via [OpenRouter](https://openrouter.ai). The chatbot can answer queries based on a dataset (e.g., FAQ or instruction manual) using semantic search and context-aware generation.
+This project demonstrates a simple Retrieval-Augmented Generation (RAG) chatbot using the [DeepSeek V3 0324 (free)](https://openrouter.ai/deepseek/deepseek-chat-v3-0324:free) LLM model via [OpenRouter](https://openrouter.ai). The chatbot can answer queries based on a dataset (e.g., FAQ or instruction manual) using semantic search and context-aware generation.
 
 ---
 
